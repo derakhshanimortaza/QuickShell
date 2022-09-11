@@ -1,0 +1,2 @@
+# QuickShell
+QuickShellScripts
